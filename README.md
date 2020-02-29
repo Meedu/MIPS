@@ -21,9 +21,11 @@ MIP 是 MeEdu Improvement Proposal 的缩写。意思是：MeEdu 改进提案。
 
 > 版本v1
 
+格式：Markdown
+
 | 提案号 | 版本 | 作者 | 讨论地址 | 联系方式 | 状态 | 类型 | 更新时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | MIP-1 | v1 | 小滕 | https://github.com/Meedu/mips/issues/1 | weibo: xiaotenggogo | 起草 | 功能迭代 | 2020/02/29 |
 
-1.接下来是有关提案的详细描述。
-2.提案的版本更新记录。
+1.接下来是有关提案的详细描述。  
+2.提案的版本更新记录。  
